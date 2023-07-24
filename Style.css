@@ -1,0 +1,60 @@
+body {
+ background-color: antiquewhite;
+}
+
+h1 {
+    color: hotpink;
+    text-align: center;
+}
+
+
+div {
+text-align: center;
+}
+
+h3 {
+    color: pink;
+}
+.inline-buttons {
+   text-align: right;
+   color: rgb(112, 38, 155);
+   border-color:#4a2264;
+   border-radius: 10px;
+}
+
+h4{
+    color: coral;
+}
+
+.bt {
+    justify-content: center;
+     margin-top: 1%;
+     background-color:#e993d6;
+     padding: 3px;
+     border-radius: 10px;
+     color: #9b28b8;
+     border-color:#4a2264;
+     text-decoration: none;
+  
+ 
+ }
+
+
+
+table, tr, th, td {
+    border: 2px solid rgb(252, 154, 252);
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+table {
+    width: 100px;
+    margin: 0 auto;
+
+    
+}
+
+.blue {
+    color: blue;
+}
